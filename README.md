@@ -1,6 +1,6 @@
 # Maxwell Chegbe 
 
-22-year-old final year CS student and Programmer at Joseph Sarwuan Tarka University, Makurdi, Nigeria. Fascinated by Graphics programming and physics.
+22-year-old final year CS student and Programmer at Joseph Sarwuan Tarka University, Makurdi, Nigeria. Doing Graphics programming and physics.
 
 ---
 
