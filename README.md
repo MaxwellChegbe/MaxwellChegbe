@@ -1,19 +1,12 @@
 # Maxwell Chegbe 
 
-22-year-old final year CS student and Programmer at Joseph Sarwuan Tarka University, Makurdi, Nigeria. Doing Graphics programming and physics.
-
+Hi,I’m a computer science student and programmer working in graphics programming and physics-based simulation. I build projects in C++, OpenGL, and GLSL, focusing on real-time rendering, shader development, and the underlying mathematics of visual systems.
 ---
 
 ## Interests
-* C++
-* OpenGL
-* GLSL
-* Physics & Simulation 
-
----
-
-## Currently Learning
-* OpenGL using learnopengl.com
+* Graphics programming (real-time  rendering, shaders)
+* Physics Simulation (numerical methods,  dynamics 
+* Systems programming (C++, Rust)
 
 ---
 
@@ -22,4 +15,4 @@
 * 📧 Email: [maxwellchegbe@gmail.com](mailto:maxwellchegbe@gmail.com)
 
 ---
-*“For me, to know is life itself.”*
+
