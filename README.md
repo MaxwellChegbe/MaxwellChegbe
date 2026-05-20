@@ -1,13 +1,13 @@
 # Maxwell Chegbe 
 
-I’m a computer science student and programmer working in graphics programming and physics-based simulation. I build projects in C++, OpenGL, and GLSL, focusing on real-time rendering, shader development, and the underlying mathematics of visual systems.
-
+I’m a computer scientist with intrest in Computer Security. I'm actively building Tracebound.
 
 
 ## Interests
-* Graphics programming (real-time  rendering, shaders)
-* Physics Simulation (numerical methods,  dynamics 
-* Systems programming (C++, Rust)
+* offensive security
+* OS internals
+* Networking
+* Systems programming (Rust)
 
 ---
 
